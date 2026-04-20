@@ -1,4 +1,5 @@
-usage: git clone
+usage: git clone https://github.com/micheaol/samba-usermap-script.git
+
 sudo apt install python python-pip
 pip install --user pysmb
 
